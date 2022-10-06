@@ -12,7 +12,7 @@ a {
 
 .barra-superior{
     padding: 10px;
-    background-color: #38CA52;
+    background-color: #0ccc5c;
 }
 
 .barra-superior a{
@@ -21,7 +21,7 @@ a {
 
 .barra-superior-baixo {
     padding: 1vh;
-    background-color: #dedede;
+    background-color: #eeeeee;
 }
 
 .barra-superior-baixo ul{
